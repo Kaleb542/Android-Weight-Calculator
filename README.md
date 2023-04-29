@@ -14,5 +14,11 @@ The app is built using Java and the Android SDK. It uses the onClick event handl
 
 The app uses a layout file to define the user interface. The user interface includes a TextView to display the title of the app, a TextView to prompt the user to enter the weight of the barbell, RadioButtons to select the weight of the barbell, an EditText field for the user to enter the desired weight, and a Button to calculate the weights required on each side of the barbell.
 
+## Screenshots
+<div style="display: flex; flex-direction: row;">
+  <img src="https://user-images.githubusercontent.com/50216622/235279388-e75935b4-b387-4dc0-9d06-c7869ae9ca62.jpg" alt="screenshot" width="300"/>
+  <img src="https://user-images.githubusercontent.com/50216622/235279398-396f056f-c9de-4e5f-8bd9-7af79c04f469.jpg" alt="screenshot" width="300"/>
+</div>
+
 ## Contributions
 Contributions to this project are welcome. Feel free to fork the project and submit a pull request with your changes.
